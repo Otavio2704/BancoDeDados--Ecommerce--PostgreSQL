@@ -1,0 +1,13 @@
+-- View para Resumo de Clientes
+CREATE VIEW vw_resumo_clientes AS
+SELECT 
+    c.id_cliente,
+    c.nome,
+    c.email,
+    c.tipo_cliente,
+    COUNT(DISTINCT p.id_pedido) as total_pedidos,
+    COALESCE(SUM(p.valor_total), 0) as valor_total_compras,
+    COALESCE(AVG(p.valor_total), 0) as ticket_medio
+FROM Clientes c
+LEFT JOIN Pedidos p ON c.id_cliente = p.id_cliente
+GROUP BY c.id_cliente, c.nome, c.email, c.tipo_cliente;
