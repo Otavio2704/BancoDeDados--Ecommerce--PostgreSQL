@@ -231,15 +231,6 @@ Este sistema suporta cenários reais como:
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📝 Próximas Melhorias
-
-- [ ] Implementação de triggers para auditoria completa
-- [ ] Sistema de avaliações e comentários
-- [ ] Gestão de cupons e promoções
-- [ ] Integração com APIs de pagamento
-- [ ] Dashboard em tempo real
-- [ ] Sistema de notificações
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
