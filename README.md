@@ -257,7 +257,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 📞 Suporte
 
 Se você encontrar algum problema ou tiver sugestões, por favor abra uma [issue](https://github.com/Otavio2007/ecommerce-database/issues).
-
----
-
-*Desenvolvido com ❤️ para a comunidade de desenvolvedores*
