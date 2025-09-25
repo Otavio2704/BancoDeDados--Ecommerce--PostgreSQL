@@ -237,9 +237,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Otavio2007**
+**Otavio2704**
 
-- GitHub: [@Otavio2007](https://github.com/Otavio2007)
+- GitHub: [@Otavio2704](https://github.com/Otavio2704)
 
 ---
 
